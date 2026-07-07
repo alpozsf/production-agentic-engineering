@@ -55,5 +55,16 @@ It was also the moment the team converted. Engineers are rightly skeptical of AI
 Code generation gets the headlines. But for a data platform with a legacy estate and a migration ahead, the highest-ROI agent you can deploy is the one that reads schemas, not the one that writes code.
 
 ---
+In this series:
 
-*Originally published and maintained at [Substack Link Placeholder]. Source files available at [GitHub Repo Placeholder].*
+1. Governance Before Velocity: What Actually Made Agentic Engineering Work in Production
+
+2. The Highest-ROI Agentic Use Case Nobody Talks About: Schema Mapping.  (this piece)
+
+3. Your Engineers Aren’t Afraid of AI. They’re Afraid of Being Reviewers.
+
+4. *Forthcoming*
+
+Alp Oz
+Enterprise Data Platform Leader
+*[LinkedIn](https://www.linkedin.com/in/alpoz/) · [Substack](https://alpozsf.substack.com/s/production-agentic-engineering)*
