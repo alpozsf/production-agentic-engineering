@@ -1,5 +1,7 @@
 # The Highest-ROI Agentic Use Case Nobody Talks About: Schema Mapping
 
+Part 2 of the series “Production Agentic Engineering” — [series index](README.md)
+
 When engineering leaders ask me where to start with agentic AI, they expect me to say code generation. It is the visible use case, the one every vendor demos. My answer is less glamorous: start with schema mapping. It was the highest-ROI agentic workflow we ran in production at a major financial institution, it produced the fastest team buy-in, and almost nobody writes about it.
 
 This retrospective covers the problem it solved, the mechanism, and why this specific use case is structurally suited to agents in a way code generation is not.
