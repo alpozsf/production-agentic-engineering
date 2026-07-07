@@ -1,6 +1,6 @@
 # Governance Before Velocity: What Actually Made Agentic Engineering Work in Production
 
-Part 1 of the series “Production Agentic Engineering” 
+Part 1 of the series “Production Agentic Engineering” -- [series index](#)
 
 
 In a recent project, I was brought into a major financial institution to fix a failing hybrid data architecture — on-prem collection feeding AWS processing, a 25-person engineering team locked in a permanent maintenance cycle, and delivery lead times measured in weeks. The mandate was platform modernization. What we ended up building was something else: a production agentic engineering organization, with AI agents doing real work in the delivery path of a regulated financial data platform.
