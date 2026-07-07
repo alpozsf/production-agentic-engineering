@@ -1,6 +1,6 @@
 # Your Engineers Aren't Afraid of AI. They're Afraid of Being Reviewers.
 
-*Part 3 of the series "Production Agentic Engineering" — [series index](#)*
+*Part 3 of the series "Production Agentic Engineering" — [series index](README.md)*
 
 ![The role shift: from engineer as author with a direct path to production, to agent proposing drafts behind an accountable engineer gate and deterministic contract validation](p3_hero_role_shift.png)
 
