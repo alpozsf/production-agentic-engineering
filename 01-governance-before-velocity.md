@@ -1,6 +1,9 @@
 # Governance Before Velocity: What Actually Made Agentic Engineering Work in Production
 
-In 2024, I was brought into a major financial institution to fix a failing hybrid data architecture — on-prem collection feeding AWS processing, a 25-person engineering team locked in a permanent maintenance cycle, and delivery lead times measured in weeks. The mandate was platform modernization. What we ended up building was something else: a production agentic engineering organization, with AI agents doing real work in the delivery path of a regulated financial data platform.
+Part 1 of the series “Production Agentic Engineering” 
+
+
+In a recent project, I was brought into a major financial institution to fix a failing hybrid data architecture — on-prem collection feeding AWS processing, a 25-person engineering team locked in a permanent maintenance cycle, and delivery lead times measured in weeks. The mandate was platform modernization. What we ended up building was something else: a production agentic engineering organization, with AI agents doing real work in the delivery path of a regulated financial data platform.
 
 It worked. But not for the reason most people assume.
 
@@ -51,5 +54,10 @@ That is the inversion worth sitting with. Governance is usually framed as the ta
 The tooling landscape has moved since we built this — managed agent runtimes, standardized protocols for tool integration, native quality frameworks in the cloud platforms. All of it makes the plumbing easier. None of it changes the model: contracts first, deterministic validation second, enforced boundaries third, and only then the agents. Teams adopting the tooling without the model will rediscover why we built it in this order.
 
 ---
+In this series:
 
-*Originally published and maintained at [Substack Link Placeholder]. Source files available at [GitHub Repo Placeholder].*
+1. Governance Before Velocity: What Actually Made Agentic Engineering Work in Production (this piece)
+
+
+
+*[LinkedIn](https://www.linkedin.com/in/alpoz/) · [Substack](https://alpozsf.substack.com/s/production-agentic-engineering)*
